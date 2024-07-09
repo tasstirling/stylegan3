@@ -1,4 +1,8 @@
-alias python=python3
-anaconda added 
-git
-ssh s
+generated ssh key, added it to git account
+created own fork of main branch 
+used the ssh link from my repository to clone on VSC
+created alias for python = python3
+installed minicoda for conda commands, conda commands only run in miniconda
+CUDA 12.0 installed 
+installed pytorch 
+
